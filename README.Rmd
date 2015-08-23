@@ -1,0 +1,19 @@
+---
+title: "README"
+author: "Wilson A. Florero-Salinas"
+date: "August 20, 2015"
+output: html_document
+---
+
+## Getting and Cleaning Data
+ 
+To create a tidy data set simply
+
+- Run:    `run_analysis.R`
+- Script assumes data has been downloaded and that we are working in a directory containing folder/data set
+- Output: `tidy.txt` 
+
+## Getting more info
+
+Read the Codebook contained the [CookBook.md](https://github.com/WFSalinas/GettingAndCleaningDataProject/blob/master/Codebook.md)
+file.
