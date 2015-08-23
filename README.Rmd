@@ -1,6 +1,6 @@
 ---
 title: "README"
-author: "Wilson A. Florero-Salinas"
+author: "WFSalinas"
 date: "August 20, 2015"
 output: html_document
 ---
